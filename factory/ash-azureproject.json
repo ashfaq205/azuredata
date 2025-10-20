@@ -1,0 +1,9 @@
+{
+	"name": "ash-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87978f3c-1ab5-4df3-b1c9-57563fb2ec21",
+		"tenantId": "75e9c7e1-ef7f-4137-93a8-8df1c5ce97f8"
+	}
+}
